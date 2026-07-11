@@ -15,6 +15,16 @@ This dashboard fetches and displays weather data like **temperature, conditions,
 
 ---
 
+#  Live Demo
+
+### 🌦️ Experience the Dynamic Weather Dashboard
+
+🔗 **Live Demo:** https://rohitha-dynamic-weather-dashboard.netlify.app/
+
+> 📍 Search for any city to view real-time weather information and forecasts.
+
+---
+
 ## 🎯 Objective
 To create a **responsive weather application** that provides **real-time weather data** and **5-day forecasts** based on the user's location or searched city using frontend technologies.
 
